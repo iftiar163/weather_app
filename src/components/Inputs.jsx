@@ -22,7 +22,7 @@ const Inputs = () => {
 				<button name="metric" className="text-xl text-white font-light">
 					&deg;C
 				</button>
-				<p className="text-white mx-1">|</p>
+				<p className="text-white mx-1 my-1">|</p>
 				<button name="imperial" className="text-xl text-white font-light">
 					&deg;F
 				</button>
